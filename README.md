@@ -2,6 +2,7 @@
 ![Captura de tela 2023-11-22 150742](https://github.com/Salops/pok-dex/assets/104448348/f196f5b1-05bd-4614-a3fb-f12eff39aeaa)
 
 
+
 # Pokedex
 
 ## 💻 Projeto
